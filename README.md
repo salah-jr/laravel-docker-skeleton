@@ -1,5 +1,5 @@
 # laravel-docker-skeleton
-Template for making Docker local Laravel environment over Postgresql and Nginx server.
+Template for making local Docker Laravel environment over Postgresql and Nginx server.
 
 # Usage
 To get started, make sure you have Docker installed on your system, and then clone this repository.
