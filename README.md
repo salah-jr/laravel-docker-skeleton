@@ -14,6 +14,10 @@ DB_DATABASE=your_db
 DB_USERNAME=root
 DB_PASSWORD=root
 ```
+
+-Update `docker-compose.yml` by replacing `{{app-name}}` , `{{db-name}}` with your Laravel app and db names
+
+
 In your terminal, navigate to the directory you cloned this repo, and spin up the containers for the web server by running 
 
 ```
